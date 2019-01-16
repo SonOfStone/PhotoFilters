@@ -1,0 +1,3 @@
+I have implemented 5 filters that are activated by keys 1-5. The first four are the ones required
+the 5th is a sharpen. The 0 key returns to the original photo. In order to manage the edges in the
+matrix manipulation I removed a row of pixels in the x and y of the canvas and placed the pictures at -1,-1.
